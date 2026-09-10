@@ -16,6 +16,8 @@ def main():
 
     showstartscreen = 1
     # qdnkqjndjqndoqndinqidnqi
+    if i = i:
+        i = i
     while 1:
         ######## CONSTANTS
         WINSIZE = [800,600]
